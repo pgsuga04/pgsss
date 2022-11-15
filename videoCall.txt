@@ -1,3 +1,7 @@
 videoCall fearture release
 bug cleared
+<<<<<<< HEAD
 branch123
+=======
+clear
+>>>>>>> suga1
